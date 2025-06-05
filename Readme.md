@@ -32,15 +32,9 @@
         <br>Bash
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <tr>
-      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
         <br>GCP
       </td>
-  </tr>
   </table>
 </div>
 
