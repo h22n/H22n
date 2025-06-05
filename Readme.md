@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/h22n/h22n/assets/87216162/9b2d6c7f-4d3d-4f3a-9f26-6c5d0b6b7d7d" width="300" alt="Cyber Gladiator">
+  <img src="https://archive.org/download/jiswzdylqrg61/jiswzdylqrg61.png" width="300" alt="engkemexploit">
 </div>
 
 <div align="center">
@@ -14,12 +14,6 @@
 [![Ultimate Cool](https://img.shields.io/badge/%E2%9A%A1%EF%B8%8F-ULTIMATE_COOL-FFD43B?style=for-the-badge&logo=apachespark&logoColor=black)](https://github.com/h22n)
 
 </div>
-
-
-### 🔰 𝙍𝙊𝙁𝙄𝙇𝙀
-
-
-
 
 ### ⚙️ 𝙏𝙀𝘾𝙃𝙉𝙄𝘾𝘼𝙇 𝘼𝙍𝙎𝙀𝙉𝘼𝙇
 <div align="center">
@@ -41,33 +35,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
         <br>Docker
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="48" height="48" alt="Ansible" />
-        <br>Ansible
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
-        <br>Terraform
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
-        <br>Azure
-      </td>
+      <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
         <br>GCP
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" />
-        <br>K8s
-      </td>
-    </tr>
+  </tr>
   </table>
 </div>
 
@@ -76,8 +49,6 @@
 ### 📊 𝘾𝙔𝘽𝙀𝙍 𝙎𝙏𝘼𝙏𝙎
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=h22n&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=2AA7FF&stroke=FFD43B&ring=2AA7FF&fire=FFD43B&currStreakNum=FFFFFF&sideNums=FFD43B&currStreakLabel=FFD43B&sideLabels=2AA7FF)](https://git.io/streak-stats)
-
 ![Security Stats](https://github-readme-stats.vercel.app/api?username=h22n&show_icons=true&theme=blueberry&title_color=2AA7FF&text_color=FFFFFF&icon_color=FFD43B&border_color=2AA7FF&bg_color=0D1117)
 
 </div>
