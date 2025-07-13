@@ -3,10 +3,6 @@
 </p>
 
 <div align="center">
-  <img src="https://archive.org/download/jiswzdylqrg61/jiswzdylqrg61.png" width="300" alt="engkemexploit">
-</div>
-
-<div align="center">
   
 [![Cyber Gladiator](https://img.shields.io/badge/%E2%9A%94%EF%B8%8F-Cyber_Gladiator-2AA7FF?style=for-the-badge&logo=windowsdefender&logoColor=white)](https://github.com/h22n)
 [![Style Master](https://img.shields.io/badge/%F0%9F%92%81%EF%B8%8F-Style_Master-FFD43B?style=for-the-badge&logo=starship&logoColor=black)](https://github.com/h22n)
