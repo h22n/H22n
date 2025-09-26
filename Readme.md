@@ -1,5 +1,8 @@
 <!-- ~~~~~~~~ TERMINAL-ORANGE RETRO ~~~~~~~~ -->
 <div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=20&duration=4000&pause=1500&color=FF8C00&center=true&vCenter=true&width=600&height=80&lines=CyberSecurity;Blue+Team+Specialist;engkemexploit" alt="Animated typing" />
+</p>
 
 ![scanline](https://user-images.githubusercontent.com/73803630/255395067-8c8a34d4-1555-4ef4-a5e5-7397d5f5b3c0.gif)
 
