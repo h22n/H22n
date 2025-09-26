@@ -11,7 +11,6 @@
 
 </div>
 
-### ⚙️ 𝙏𝙀𝘾𝙃𝙉𝙄𝘾𝘼𝙇 𝘼𝙍𝙎𝙀𝙉𝘼𝙇
 <div align="center">
   <table>
     <tr>
@@ -36,7 +35,7 @@
 
 ---
 
-### 📊 𝘾𝙔𝘽𝙀𝙍 𝙎𝙏𝘼𝙏𝙎
+### 📊 My Status
 <div align="center">
   
 ![Security Stats](https://github-readme-stats.vercel.app/api?username=h22n&show_icons=true&theme=blueberry&title_color=2AA7FF&text_color=FFFFFF&icon_color=FFD43B&border_color=2AA7FF&bg_color=0D1117)
@@ -45,13 +44,6 @@
 
 ---
 
-### 🎯 𝙈𝙄𝙎𝙈𝙎𝙄𝙊𝙉 𝙎𝙏𝘼𝙏𝙀𝙈𝙀𝙉𝙏
-> "𝙄𝙉 𝘼 𝙒𝙊𝙍𝙇𝘿 𝙁𝙐𝙇𝙇 𝙊𝙁 𝙎𝘾𝙍𝙄𝙋𝙏 𝙆𝙄𝘿𝘿𝙄𝙀𝙎,<br>
-> 𝘽𝙀 𝙏𝙃𝙀 𝘼𝙐𝙏𝙃𝙀𝙉𝙏𝙄𝘾 𝘽𝙇𝙐𝙀 𝙏𝙀𝘼𝙈 𝙂𝙇𝘼𝘿𝙄𝘼𝙏𝙊𝙍.<br>
-> 𝙈𝙔 𝙎𝙏𝙔𝙇𝙀 𝙄𝙎 𝙈𝙔 𝙒𝙀𝘼𝙋𝙊𝙉,<br>
-> 𝙈𝙔 𝘾𝙊𝘿𝙀 𝙄𝙎 𝙈𝙔 𝘼𝙍𝙈𝙊𝙍."
-
----
 
 <div align="center">
   
