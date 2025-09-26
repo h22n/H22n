@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=30&duration=4000&pause=1000&color=2AA7FF&center=true&vCenter=true&width=600&height=80&lines=%F0%9F%94%90+ENGKEMEXPLOIT;THE+ORIGINAL+CYBER+SECURITY;BLUE+TEAM+SPECIALIST;HENSEM+BERGAYA+%F0%9F%92%AA;STYLE+MASTER+%F0%9F%92%81%EF%B8%8F" alt="Animated typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=4000&pause=1000&color=2AA7FF&center=true&vCenter=true&width=600&height=80&lines=CyberSecurity;Blue+Team+Specialist;engkemexploit" alt="Animated typing" />
 </p>
 
 <div align="center">
