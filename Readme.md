@@ -9,7 +9,7 @@
 |:-:|
 | <code style="color:#FFA500">“Saya Hanya Orang Asli”</code> |
 
-![prompt](https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2000&pause=500&color=FFA500&center=true&vCenter=true&width=480&lines=%E2%96%91%E2%96%92%E2%96%93%20Keep%20Watching%20%E2%96%93%E2%96%92%E2%96%91)
+![prompt](https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2000&&color=FFA500&center=true&vCenter=true&width=480&lines=FuckYou)
 
 [![Website](https://img.shields.io/badge/Website-FF3C00?style=for-the-badge&logo=vercel&logoColor=FFA500)](https://github.com/h22n)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF3C00?style=for-the-badge&logo=linkedin&logoColor=FFA500)](https://linkedin.com/in/Sucker)
