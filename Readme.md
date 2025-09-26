@@ -1,55 +1,29 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=4000&pause=1000&color=2AA7FF&center=true&vCenter=true&width=600&height=80&lines=CyberSecurity;Blue+Team+Specialist;engkemexploit" alt="Animated typing" />
-</p>
-
+<!-- -------------- RETRO-MINIMALIST ORANGE MAKEOVER -------------- -->
 <div align="center">
-  
-[![Cyber Gladiator](https://img.shields.io/badge/%E2%9A%94%EF%B8%8F-Cyber_Gladiator-2AA7FF?style=for-the-badge&logo=windowsdefender&logoColor=white)](https://github.com/h22n)
-[![Style Master](https://img.shields.io/badge/%F0%9F%92%81%EF%B8%8F-Style_Master-FFD43B?style=for-the-badge&logo=starship&logoColor=black)](https://github.com/h22n)
-[![Security Overlord](https://img.shields.io/badge/%F0%9F%94%92-Security_Overlord-2AA7FF?style=for-the-badge&logo=bitdefender&logoColor=white)](https://github.com/h22n)
-[![Ultimate Cool](https://img.shields.io/badge/%E2%9A%A1%EF%B8%8F-ULTIMATE_COOL-FFD43B?style=for-the-badge&logo=apachespark&logoColor=black)](https://github.com/h22n)
+
+![Retro Divider](https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2500&pause=80&color=FF8C00&center=true&vCenter=true&width=420&height=40&lines=engkemexploit)
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h22n&show_icons=true&theme=calm&title_color=FF8C00&text_color=333&icon_color=FF8C00&border_color=FF8C00&bg_color=FFFFFF&hide_border=true) |
+|:-:|
+| *“Saya Hanya Orang Asli”* |
+
+![Retro Divider](https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=2500&pause=800&color=FF8C00&center=true&vCenter=true&width=420&height=40&lines=Keep+Watching)
+
+[![Website](https://img.shields.io/badge/Website-FF8C00?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/h22n)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sucker)
+[![Twitter](https://img.shields.io/badge/Twitter-FF8C00?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sucker)
+
+![Profile Views](https://komarev.com/ghpvc/?username=h22n&color=FF8C00&style=flat-square)
 
 </div>
-
+<!-- -------------------------------------------------------------- -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
-        <br>Bash
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
-        <br>GCP
-      </td>
-  </table>
+DevLover
 </div>
-
----
-
-### 📊 My Status
 <div align="center">
   
-![Security Stats](https://github-readme-stats.vercel.app/api?username=h22n&show_icons=true&theme=blueberry&title_color=2AA7FF&text_color=FFFFFF&icon_color=FFD43B&border_color=2AA7FF&bg_color=0D1117)
+| Linux | Python | Bash | GCP |
+|-------|--------|------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" /> |
 
 </div>
-
----
-
-
-<div align="center">
-  
-[![Website](https://img.shields.io/badge/%F0%9F%8C%90-ENGKEMEXPLOIT_HQ-2AA7FF?style=for-the-badge)](https://github.com/h22n)
-[![Cyber Cred](https://komarev.com/ghpvc/?username=h22n&color=2AA7FF&label=CRED+VERIFIED&style=for-the-badge)](https://github.com/h22n)
-
-
-  ```diff
-<s>alert('nothing')</s>
