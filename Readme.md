@@ -1,50 +1,46 @@
-<!-- ~~~~~~~~ TERMINAL-ORANGE RETRO WITH ZENITSU AGATSUMA ~~~~~~~~ -->
-<div align="center">
+<!-- ⚡ Z E N I T S U   M I N I M A L ⚡ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=24&duration=4000&pause=1500&color=FF8C00&center=true&vCenter=true&width=700&height=100&lines=CyberSecurity;Blue+Team+Specialist;Thunder+Breathing+Expert;engkemexploit" alt="Animated typing" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFD700&height=8&font=Press+Start+2P&section=header" alt="⚡"/>
+  <br>
+ <img src="https://sfile.chatglm.cn/images-ppt/d851511bdb54.jpg" width="200" height="200" style="border-radius: 50%; border: 3px solid #FFA500; box-shadow: 0 0 15px #FF8C00;">
 </p>
 
-  <img src="https://sfile.chatglm.cn/images-ppt/d851511bdb54.jpg" width="200" height="200" style="border-radius: 50%; border: 3px solid #FFA500; box-shadow: 0 0 15px #FF8C00;">
-  
-  ![scanline](https://user-images.githubusercontent.com/73803630/255395067-8c8a34d4-1555-4ef4-a5e5-7397d5f5b3c0.gif)
-![prompt](https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=2000&pause=500&color=FF3C00&center=true&vCenter=true&width=550&lines=engkemexploit%40thunder%20~%20%24%20cat%20zenitsu.md)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&pause=1000&color=FFD700&center=true&width=300&lines=CyberSecurity+Warrior;Orang+Asli+CyberSecurity;engkemexploit+Dev" alt="typing"/>
+</p>
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=h22n&show_icons=true&theme=dark&title_color=FFA500&text_color=FF3C00&icon_color=FFA500&border_color=FF3C00&bg_color=1A1A1A&hide_border=true) |
-|:-:|
-| <code style="color:#FFA500">"When you're scared, focus on what's important and strike with all your might!"</code> |
+<p align="center">
+  <a href="https://github.com/h22n/">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub"/>
+  </a>
+  <a href="mailto:h2zn@proton.me">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=protonmail&logoColor=FFD700" alt="Email"/>
+  </a>
+</p>
 
-![prompt](https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=2000&&color=FFA500&center=true&vCenter=true&width=500&lines=Thunderclap+and+Flash)
+---
 
-[![Website](https://img.shields.io/badge/Website-FF3C00?style=for-the-badge&logo=vercel&logoColor=FFA500)](https://github.com/h22n)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF3C00?style=for-the-badge&logo=linkedin&logoColor=FFA500)](https://linkedin.com/in/Sucker)
-[![Twitter](https://img.shields.io/badge/Twitter-FF3C00?style=for-the-badge&logo=twitter&logoColor=FFA500)](https://twitter.com/Sucker)
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-000?style=flat-square&logo=kalilinux&logoColor=FFD700" alt="Kali"/>
+  <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=FFD700" alt="Python"/>
+  <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=FFD700" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash&logoColor=FFD700" alt="Bash"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=h22n&color=FF3C00&style=flat-square)
+---
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=h22n&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&bg_color=00000000" alt="Stats"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h22n&theme=dark&hide_border=true&background=00000000&stroke=FFD700&ring=FFD700&fire=FFD700" alt="Streak"/>
+</p>
 
-![term-skill](https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=1800&pause=400&color=FFA500&center=true&vCenter=true&width=500&lines=%24%20ls%20breathing%2Ftechniques%2F%20%7C%20grep%20-E%20'linux%7Cpython%7Cbash%7Cgcp')
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=h22n&theme=darkhub&no-frame=true&row=1&column=3&title-color=FFD700&icon-color=FFD700" alt="Trophies"/>
+</p>
 
-<div align="center">
-
-| engkemexploit |
-|:-:|
-
-</div>
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60" alt="Linux" style="filter:brightness(0) saturate(100%) invert(36%) sepia(96%) saturate(7480%) hue-rotate(3deg) brightness(104%) contrast(112%);" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python" style="filter:brightness(0) saturate(100%) invert(36%) sepia(96%) saturate(7480%) hue-rotate(3deg) brightness(104%) contrast(112%);" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60" height="60" alt="Bash" style="filter:brightness(0) saturate(100%) invert(36%) sepia(96%) saturate(7480%) hue-rotate(3deg) brightness(104%) contrast(112%);" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" height="60" alt="GCP" style="filter:brightness(0) saturate(100%) invert(36%) sepia(96%) saturate(7480%) hue-rotate(3deg) brightness(104%) contrast(112%);" /> |
-|:-:|:-:|:-:|:-:|
-
-</div>
-
-
-<div align="center">
-
-![term-end](https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=1500&pause=300&color=FFA500&center=true&vCenter=true&width=400&lines=ThunderBreather%40retro%3A~%24%20_%20%5Ez)
-
-</div>
-
-
-<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=60&section=footer&text=&fontSize=30&fontColor=000" alt="⚡"/>
+</p>
