@@ -13,7 +13,7 @@
   <a href="https://github.com/h22n/">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub"/>
   </a>
-  <a href="mailto:h2zn@proton.me">
+  <a href="mailto:x@proton.me">
     <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=protonmail&logoColor=FFD700" alt="Email"/>
   </a>
 </p>
