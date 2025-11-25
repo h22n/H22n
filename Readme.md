@@ -1,4 +1,4 @@
-<!-- ⚡ Z E N I T S U   M I N I M A L ⚡ -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=FFD700&height=8&font=Press+Start+2P&section=header" alt="⚡"/>
   <br>
@@ -28,14 +28,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h22n&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&bg_color=00000000" alt="Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h22n&theme=dark&hide_border=true&background=00000000&stroke=FFD700&ring=FFD700&fire=FFD700" alt="Streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=h22n&theme=darkhub&no-frame=true&row=1&column=3&title-color=FFD700&icon-color=FFD700" alt="Trophies"/>
