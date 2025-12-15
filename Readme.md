@@ -50,9 +50,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF4500&height=80&section=footer&text=2026+Edition&fontSize=28&fontColor=000&animation=wave" />
 </p>
-
-<details open align="center">
-  <summary><b>👇 Visitors Counter</b></summary>
-  <br>
-  <img src="https://profile-counter.glitch.me/h22n/count.svg" />
-</details>
