@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=FFD700&center=true&width=600&lines=CyberSecurity+Warrior;Orang+Asli+CyberSecurity;engkemexploit+Dev;Red+Team+Specialist;Exploit+Engineer" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=BBH+Bartle&size=26&pause=1000&color=FFD700&center=true&width=600&lines=engkemexploit+Dev;Red+Team+Specialist;Exploit+Engineer" alt="typing" />
 </p>
 
 <p align="center">
@@ -35,12 +35,12 @@
 ---
 ---
 
-## 🔥 Top Projects
+## 🔥Profile
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/h22n/PrivateDdos">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=h22n&repo=PrivateDdos&theme=radical&bg_color=1a1a1a&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF" />
+      <a href="https://github.com/h22n/H22n">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=h22n&repo=H22n&theme=radical&bg_color=1a1a1a&title_color=FFD700&icon_color=FF4500&text_color=FFFFFF" />
       </a>
    </tr>
 </table>
@@ -48,5 +48,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF4500&height=80&section=footer&text=2026+Edition&fontSize=28&fontColor=000&animation=wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF4500&height=80&section=footer&&fontSize=28&fontColor=000&animation=wave" />
 </p>
