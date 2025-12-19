@@ -10,19 +10,16 @@
 
 <p align="center">
   <a href="https://github.com/h22n/">
-    <img src="https://img.shields.io/badge/Dynamic-GitHub-000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1a1a1a&color=FFD700" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1a1a1a&color=FFD700" alt="GitHub"/>
   </a>
   <a href="mailto:x@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-000?style=for-the-badge&logo=protonmail&logoColor=FFD700&labelColor=1a1a1a&color=FF4500" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/h22n">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=1a1a1a&color=0077B5" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-## 🛡️ Tech Arsenal
+## 👨‍💻TECH
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-268BBD?style=flat-square&logo=kalilinux&logoColor=FFD700&labelColor=000" alt="Kali"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD700&labelColor=000" alt="Python"/>
