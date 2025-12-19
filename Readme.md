@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻TECH
+## 👨‍💻Tech
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-268BBD?style=flat-square&logo=kalilinux&logoColor=FFD700&labelColor=000" alt="Kali"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD700&labelColor=000" alt="Python"/>
