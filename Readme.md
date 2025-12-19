@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=BBH+Bartle&size=26&pause=1000&color=FFD700&center=true&width=600&lines=engkemexploit+Dev;Red+Team+Specialist;Exploit+Engineer" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=BBH+Bartle&size=13&pause=1000&color=FFD700&center=true&width=600&lines=engkemexploit+Dev;Red+Team+Specialist;Exploit+Engineer" alt="typing" />
 </p>
 
 <p align="center">
