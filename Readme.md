@@ -7,32 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=BBH+Bartle&size=13&pause=1000&color=FFD700&center=true&width=600&lines=engkemexploit+Dev;Red+Team+Specialist;Exploit+Engineer" alt="typing" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/h22n/">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=1a1a1a&color=FFD700" alt="GitHub"/>
-  </a>
-  <a href="mailto:x@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-000?style=for-the-badge&logo=protonmail&logoColor=FFD700&labelColor=1a1a1a&color=FF4500" alt="Email"/>
-  </a>
-</p>
-
----
-
-## 👨‍💻Tech
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-268BBD?style=flat-square&logo=kalilinux&logoColor=FFD700&labelColor=000" alt="Kali"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD700&labelColor=000" alt="Python"/>
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=FFD700&labelColor=000" alt="Rust"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=FFD700&labelColor=000" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=FFD700&labelColor=000" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Nmap-F8F9FA?style=flat-square&logo=nmap&logoColor=FFD700&labelColor=000" alt="Nmap"/>
-</p>
-
----
----
-
-## 🔥Profile
 <table align="center">
   <tr>
     <td width="50%" align="center">
@@ -41,8 +15,6 @@
       </a>
    </tr>
 </table>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FF4500&height=80&section=footer&&fontSize=28&fontColor=000&animation=wave" />
